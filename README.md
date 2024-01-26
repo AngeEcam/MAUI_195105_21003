@@ -11,7 +11,7 @@ Le projet School MAUI est une application conçue pour gérer les informations s
 
 ## Installation
 - Assurez-vous d'avoir MAUI et .NET SDK 8 ou supérieur installés.
-- Clonez le dépôt : `git clone [URL du dépôt]`
+- Clonez le dépôt : `git clone https://github.com/XEL0R17/MAUI_195105_21003.git`
 - Exécutez le projet depuis votre IDE ou en utilisant `dotnet run` dans le répertoire du projet.
 
 ## Utilisation
